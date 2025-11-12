@@ -28,7 +28,7 @@ Atualmente trabalho com engenharia de dados utilizando Python, e desenvolvendo p
 
 ## Projetos em Destaque
 - **Dashboard de Vendas - Power BI**: [Visualizar](https://app.powerbi.com/view?r=eyJrIjoiYWFlZGEyZmEtOTExMy00MDEwLWE5OWQtNThlMmFhNDVjZTk0IiwidCI6ImFkYWMzNzYyLWYzMWQtNDliNS1iYWI1LWY3NjcxNzZmZjQyNSJ9)  
-- **Criação de Sites Responsivos**: [Código no GitHub](https://github.com/felippemcc/nome-do-repositorio)  
+- **Criação de Sites Responsivos**: [Código no GitHub](https://felippemcc.github.io/portfolio-felippe/)  
 
 ---
 
