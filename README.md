@@ -22,7 +22,6 @@
   <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Power BI" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg">
 </div>
 
 ---
