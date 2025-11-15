@@ -35,7 +35,7 @@ Atualmente trabalho com engenharia de dados utilizando Python, e desenvolvendo p
 ---
 
 ## Contato
-- [LinkedIn](https://www.linkedin.com/in/felippemcc)  
+- [LinkedIn](https://www.linkedin.com/in/felippemoura)  
 - [GitHub](https://github.com/felippemcc)  
 - [Email](mailto:felippe.mcc1@gmail.com)  
 
