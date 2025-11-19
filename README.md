@@ -27,7 +27,7 @@ Atualmente trabalho com engenharia de dados utilizando Python, e desenvolvendo p
 ---
 
 ## Projetos em Destaque
-- **AWS Rekognition**: [Visualizar](https://rekognition-img.netlify.app/)
+- **AWS Rekognition**: [Visualizar App](https://rekognition-img.netlify.app/) | [Código Fonte](https://github.com/felippemcc/rekognition-image-labels)
 - **Controle Orçamentário**: [Visualizar](https://controle-orcamentario.netlify.app/)  
 - **Criação de Sites Responsivos**: [Perfil-CV](https://felippemcc.github.io/portfolio-felippe/)  
 - **Vagas-Tech (Scraper de Vagas de Tecnologia)**: [Visualizar App](https://vagas-tech.streamlit.app/) | [Código Fonte](https://github.com/felippemcc/vagas-tech)
