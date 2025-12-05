@@ -6,13 +6,6 @@ Atualmente trabalho com engenharia de dados utilizando Python, e desenvolvendo p
 
 ---
 
-## Contribuições Recentes
-<div>
-  <img height="150" src="https://streak-stats.demolab.com?user=felippemcc&theme=tokyonight&hide_border=false" />
-</div>
-
-
-
 ## Métricas do GitHub
 ![Metrics](https://metrics.lecoq.io/felippemcc?template=classic&base=header%2Cactivity%2Crepositories&config.timezone=America%2FSao_Paulo)
 
