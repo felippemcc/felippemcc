@@ -6,12 +6,6 @@ Atualmente trabalho com engenharia de dados utilizando Python, e desenvolvendo p
 
 ---
 
-## Estatísticas do GitHub
-<div>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=felippemcc&show_icons=true&theme=vision-friendly-dark&count_private=true">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felippemcc&layout=compact&theme=vision-friendly-dark"/>
-</div>
-
 ## Métricas do GitHub
 ![Metrics](https://metrics.lecoq.io/felippemcc?template=classic&base=header%2Cactivity%2Crepositories&config.timezone=America%2FSao_Paulo)
 
