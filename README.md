@@ -1,7 +1,16 @@
-# Felippe Moura
-**Engenheiro de Dados | Analista de Dados | Desenvolvedor Web**
+<div align="center">
 
-Atualmente trabalho com engenharia de dados utilizando Python, desenvolvendo dashboards, automações e aplicações web com foco em análise de dados.
+# Felippe Moura
+
+**Engenheiro de Dados · Analista de Dados · Desenvolvedor Web**
+
+Trabalho com engenharia de dados usando Python, automação de processos e desenvolvimento de dashboards e aplicações web com foco em análise de dados.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felippemoura)
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=flat&logo=github&logoColor=white)](https://felippemcc.github.io/portfolio-felippe/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:felippe.mcc1@gmail.com)
+
+</div>
 
 ---
 
@@ -49,12 +58,8 @@ Atualmente trabalho com engenharia de dados utilizando Python, desenvolvendo das
 
 ---
 
-## Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felippemoura)
-[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=flat&logo=github&logoColor=white)](https://felippemcc.github.io/portfolio-felippe/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:felippe.mcc1@gmail.com)
-
----
+<div align="center">
 
 *"Transformar dados em informação e conhecimento é meu foco. Busco soluções inteligentes e eficientes para problemas reais."*
+
+</div>
