@@ -58,8 +58,4 @@ Trabalho com engenharia de dados usando Python, automação de processos e desen
 
 ---
 
-<div align="center">
 
-*"Transformar dados em informação e conhecimento é meu foco. Busco soluções inteligentes e eficientes para problemas reais."*
-
-</div>
